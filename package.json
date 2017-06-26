@@ -1,0 +1,27 @@
+{
+  "name": "pc-control-server",
+  "version": "0.0.1",
+  "description": "Node.js server for remote PC control",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "grunt && node index.js",
+    "dev": "grunt dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimakovalevskyi/pc-control-server.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimakovalevskyi/pc-control-server/issues"
+  },
+  "homepage": "https://github.com/dimakovalevskyi/pc-control-server#readme"
+}
