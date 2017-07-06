@@ -1,7 +1,7 @@
 # pc-control-server
 Node.js server for remote PC control
 
-## Instal
+## Install
 
 First you need to do is clone repository into your folder:
 
