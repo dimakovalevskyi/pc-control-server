@@ -1,12 +1,13 @@
-# pc-control-server [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+# pc-control-server 
+
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+[![NPM Version](https://img.shields.io/npm/v/express.svg)](https://npmjs.org/)
 
 Node.js server for remote PC control
 
 ## System requirments
 
- * OS: Windows
- * Node.js:
- * npm: 
+ * OS: Windows 7+
 
 ## Install
 
